@@ -1,0 +1,21 @@
+#include <iostream>
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+
+int : 100    
+
+    if ( n%2==0 )
+{
+    printf ("Ganjil")
+} else ( n%2==1)
+{
+    printf ("Genap")
+}
+    return 0;
+}
+
+
